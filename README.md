@@ -1,7 +1,7 @@
 ﻿# TwitterClone
 
  <a href="https://heyparves.com">
-  <img alt="Next.js 13 and app template Router-ready AI chatbot." src="https://imgtr.ee/image/Untitled-1.849I5">
+  <img alt="Next.js 13 and app template Router-ready AI chatbot." src="https://i.ibb.co/4W2HNcn/Untitled-1.jpg">
   <h1 align="center">Twitter / X By Parves</h1>
  </a>
 
